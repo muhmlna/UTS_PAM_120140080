@@ -24,6 +24,6 @@ Tujuan dibuatnya aplikasi ini adalah untuk mempelajari bagaimana cara membuat ap
 - react-redux
 
 ## Tampilan Aplikasi
-(https://drive.google.com/file/d/1oJJRr-y03W9hhjNTp-bnSuXR7a05NxCr/view?usp=share_link)
-(https://drive.google.com/file/d/1oJJRr-y03W9hhjNTp-bnSuXR7a05NxCr/view?usp=share_link)
-(https://drive.google.com/file/d/18Om8qQ3WGS5cf5U2O-AEiLQnkG81EBML/view?usp=share_link)
+![image](https://drive.google.com/file/d/1oJJRr-y03W9hhjNTp-bnSuXR7a05NxCr/view?usp=share_link)
+![image](https://drive.google.com/file/d/1oJJRr-y03W9hhjNTp-bnSuXR7a05NxCr/view?usp=share_link)
+![image](https://drive.google.com/file/d/18Om8qQ3WGS5cf5U2O-AEiLQnkG81EBML/view?usp=share_link)
