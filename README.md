@@ -59,3 +59,5 @@ eas build -p android
 &nbsp;
 Then wait and follow the instruction if it the first build, generate a new key and choose apk.Last if expo need login in terminal input same as your expo.dev account
 &nbsp;
+
+-[Link App](https://github.com/muhmlna/UTS_PAM_120140080/blob/main/UTS_PAM_120140080.zip)
